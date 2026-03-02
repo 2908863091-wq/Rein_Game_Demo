@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25a94bdd5a3f4af428da6db29b5378b7, type: 3}
+  m_Name: FireFoodList
+  m_EditorClassIdentifier: 
+  list:
+  - input: {fileID: 11400000, guid: c3b9dfb1dd2bf864e8483f8bdb39ab3f, type: 2}
+    output: {fileID: 11400000, guid: fae8eb6b6c713684a9b1737dd973f3e1, type: 2}
+    cooking_time: 5
+  - input: {fileID: 11400000, guid: fae8eb6b6c713684a9b1737dd973f3e1, type: 2}
+    output: {fileID: 11400000, guid: 54d50dbb6f644414eb71f68156acf786, type: 2}
+    cooking_time: 5

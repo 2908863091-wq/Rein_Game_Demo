@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8691ddc03a4a004f92c406663245c0a, type: 3}
+  m_Name: Menu_Hamburger_4
+  m_EditorClassIdentifier: 
+  menuName: "\u829D\u58EB\u83DC\u5821"
+  kitchenObjectList:
+  - {fileID: 11400000, guid: cc0b50c12b28d3d46be492cf45770b47, type: 2}
+  - {fileID: 11400000, guid: fae8eb6b6c713684a9b1737dd973f3e1, type: 2}
+  - {fileID: 11400000, guid: 20e0014a0235cb34b9665f1705b0047e, type: 2}
+  - {fileID: 11400000, guid: 24bdea6a6066c904c956a80d6df21ada, type: 2}

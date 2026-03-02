@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8691ddc03a4a004f92c406663245c0a, type: 3}
+  m_Name: Menu_wrong_1
+  m_EditorClassIdentifier: 
+  menuName: "\u8001\u725B\u5403\u5AE9\u8349"
+  kitchenObjectList:
+  - {fileID: 11400000, guid: 54d50dbb6f644414eb71f68156acf786, type: 2}
+  - {fileID: 11400000, guid: 20e0014a0235cb34b9665f1705b0047e, type: 2}
